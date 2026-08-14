@@ -1,0 +1,278 @@
+[
+  {
+    "concept_id": "FIRE",
+    "sample_id": "NIA_SL_G2_RAILWAYSUBWAYTAXIACCIDENT000173_1_KU02",
+    "gloss": [
+      "불"
+    ],
+    "frames": 12,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9971,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "EVACUATE",
+    "sample_id": "NIA_SL_G1_DELUGEFLOOD000209_1_TW11",
+    "gloss": [
+      "대피"
+    ],
+    "frames": 42,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9992,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "DANGER",
+    "sample_id": "NIA_SL_G1_FLOODING001707_1_TW35",
+    "gloss": [
+      "위험"
+    ],
+    "frames": 24,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9377,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "HOSPITAL",
+    "sample_id": "NIA_SL_G2_TRAFFICACCIDENT001447_1_TW87",
+    "gloss": [
+      "병원"
+    ],
+    "frames": 12,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9398,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "PAIN",
+    "sample_id": "NIA_SL_G4_FIRSTAID000096_1_TW07",
+    "gloss": [
+      "아프다"
+    ],
+    "frames": 20,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9995,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "CHEST_PAIN",
+    "sample_id": "NIA_SL_G4_FIRSTAID000053_1_TW07",
+    "gloss": [
+      "가슴",
+      "아프다"
+    ],
+    "frames": 42,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9992,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "ALLERGY",
+    "sample_id": "NIA_SL_G4_FIRSTAID000052_1_TW07",
+    "gloss": [
+      "알레르기"
+    ],
+    "frames": 20,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9991,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "STAIRS",
+    "sample_id": "NIA_SL_G1_DELUGEFLOOD001719_1_TW112",
+    "gloss": [
+      "계단"
+    ],
+    "frames": 22,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.996,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "ELEVATOR",
+    "sample_id": "NIA_SL_G2_RAILWAYSUBWAYTAXIACCIDENT004071_1_TW23",
+    "gloss": [
+      "엘리베이터"
+    ],
+    "frames": 22,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9961,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "DO_NOT_USE",
+    "sample_id": "NIA_SL_G1_DELUGEFLOOD000577_1_TW112",
+    "gloss": [
+      "사용",
+      "금지"
+    ],
+    "frames": 35,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9965,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "LEFT",
+    "sample_id": "NIA_SL_G2_RAILWAYSUBWAYTAXIACCIDENT004171_1_TW23",
+    "gloss": [
+      "왼쪽"
+    ],
+    "frames": 13,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9947,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "RIGHT",
+    "sample_id": "NIA_SL_G2_TRAFFICACCIDENT004547_1_TW23",
+    "gloss": [
+      "오른쪽"
+    ],
+    "frames": 14,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9956,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "WAIT",
+    "sample_id": "NIA_SL_G2_FORESTFIRE004297_1_TW35",
+    "gloss": [
+      "기다리다"
+    ],
+    "frames": 21,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.93,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "ACCIDENT",
+    "sample_id": "NIA_SL_G2_RAILWAYSUBWAYTAXIACCIDENT006019_1_TW03",
+    "gloss": [
+      "사고"
+    ],
+    "frames": 20,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9208,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "FALL",
+    "sample_id": "NIA_SL_G4_MOUNTAINSAFETYACCIDENT000001_1_TW10",
+    "gloss": [
+      "넘어지다"
+    ],
+    "frames": 18,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9995,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "BURN",
+    "sample_id": "NIA_SL_G4_FIRSTAID000018_1_TW07",
+    "gloss": [
+      "화상"
+    ],
+    "frames": 26,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9995,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "SMOKE",
+    "sample_id": "NIA_SL_G2_ELECTRICGASACCIDENT002441_1_TW114",
+    "gloss": [
+      "연기"
+    ],
+    "frames": 20,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9979,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "EXPLOSION",
+    "sample_id": "NIA_SL_G2_ELECTRICGASACCIDENT002926_1_TW104",
+    "gloss": [
+      "폭발"
+    ],
+    "frames": 18,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 1.0,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "COLLAPSE",
+    "sample_id": "NIA_SL_G1_DELUGEFLOOD000345_1_TW02",
+    "gloss": [
+      "건물",
+      "무너지다"
+    ],
+    "frames": 101,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9949,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "ELECTRIC_SHOCK",
+    "sample_id": "NIA_SL_G1_FLOODING003620_1_KU07",
+    "gloss": [
+      "감전"
+    ],
+    "frames": 54,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.922,
+    "annotation_aligned": true,
+    "expert_validated": false
+  },
+  {
+    "concept_id": "EARTHQUAKE",
+    "sample_id": "NIA_SL_G1_EARTHQUAKE000002_1_KU01",
+    "gloss": [
+      "지진"
+    ],
+    "frames": 36,
+    "fps": 30,
+    "source": "AIHUB_3D_LANDMARKS",
+    "tracking_quality": 0.9994,
+    "annotation_aligned": true,
+    "expert_validated": false
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "HELP",
+    "ko": "도와주세요",
+    "gloss": [
+      "도움"
+    ],
+    "category": "general",
+    "aliases": [
+      "도와줘",
+      "구조"
+    ],
+    "motion_path": "data/processed/motions/HELP.npz"
+  },
+  {
+    "id": "FIRE",
+    "ko": "불이 났어요",
+    "gloss": [
+      "불"
+    ],
+    "category": "disaster",
+    "aliases": [
+      "화재",
+      "불났어요"
+    ],
+    "motion_path": "data/processed/motions/FIRE.npz"
+  },
+  {
+    "id": "EVACUATE",
+    "ko": "대피하세요",
+    "gloss": [
+      "대피"
+    ],
+    "category": "instruction",
+    "aliases": [
+      "피하세요",
+      "탈출"
+    ],
+    "motion_path": "data/processed/motions/EVACUATE.npz"
+  },
+  {
+    "id": "DANGER",
+    "ko": "위험합니다",
+    "gloss": [
+      "위험"
+    ],
+    "category": "general",
+    "aliases": [
+      "위험",
+      "조심"
+    ],
+    "motion_path": "data/processed/motions/DANGER.npz"
+  },
+  {
+    "id": "AMBULANCE",
+    "ko": "구급차",
+    "gloss": [
+      "구급차"
+    ],
+    "category": "medical",
+    "aliases": [
+      "응급차"
+    ],
+    "motion_path": "data/processed/motions/AMBULANCE.npz"
+  },
+  {
+    "id": "HOSPITAL",
+    "ko": "병원",
+    "gloss": [
+      "병원"
+    ],
+    "category": "medical",
+    "aliases": [
+      "응급실"
+    ],
+    "motion_path": "data/processed/motions/HOSPITAL.npz"
+  },
+  {
+    "id": "PAIN",
+    "ko": "아파요",
+    "gloss": [
+      "아프다"
+    ],
+    "category": "medical",
+    "aliases": [
+      "통증",
+      "아픔"
+    ],
+    "motion_path": "data/processed/motions/PAIN.npz"
+  },
+  {
+    "id": "CHEST_PAIN",
+    "ko": "가슴이 아파요",
+    "gloss": [
+      "가슴",
+      "아프다"
+    ],
+    "category": "medical",
+    "aliases": [
+      "가슴 통증",
+      "흉통",
+      "가슴이 너무 아파요"
+    ],
+    "motion_path": "data/processed/motions/CHEST_PAIN.npz"
+  },
+  {
+    "id": "BLEEDING",
+    "ko": "피가 나요",
+    "gloss": [
+      "피",
+      "나다"
+    ],
+    "category": "medical",
+    "aliases": [
+      "출혈",
+      "피나요"
+    ],
+    "motion_path": "data/processed/motions/BLEEDING.npz"
+  },
+  {
+    "id": "BREATHING_DIFFICULTY",
+    "ko": "숨쉬기 힘들어요",
+    "gloss": [
+      "숨",
+      "힘들다"
+    ],
+    "category": "medical",
+    "aliases": [
+      "호흡 곤란",
+      "숨이 안 쉬어져요",
+      "숨을 쉬기 너무 힘들어요"
+    ],
+    "motion_path": "data/processed/motions/BREATHING_DIFFICULTY.npz"
+  },
+  {
+    "id": "ALLERGY",
+    "ko": "알레르기가 있어요",
+    "gloss": [
+      "알레르기"
+    ],
+    "category": "medical",
+    "aliases": [
+      "알러지"
+    ],
+    "motion_path": "data/processed/motions/ALLERGY.npz"
+  },
+  {
+    "id": "MEDICINE",
+    "ko": "약이 필요해요",
+    "gloss": [
+      "약",
+      "필요"
+    ],
+    "category": "medical",
+    "aliases": [
+      "의약품",
+      "약"
+    ],
+    "motion_path": "data/processed/motions/MEDICINE.npz"
+  },
+  {
+    "id": "UNCONSCIOUS",
+    "ko": "의식이 없어요",
+    "gloss": [
+      "의식",
+      "없다"
+    ],
+    "category": "medical",
+    "aliases": [
+      "무의식",
+      "기절"
+    ],
+    "motion_path": "data/processed/motions/UNCONSCIOUS.npz"
+  },
+  {
+    "id": "SEIZURE",
+    "ko": "발작을 해요",
+    "gloss": [
+      "발작"
+    ],
+    "category": "medical",
+    "aliases": [
+      "경련"
+    ],
+    "motion_path": "data/processed/motions/SEIZURE.npz"
+  },
+  {
+    "id": "STAIRS",
+    "ko": "계단",
+    "gloss": [
+      "계단"
+    ],
+    "category": "instruction",
+    "aliases": [
+      "층계"
+    ],
+    "motion_path": "data/processed/motions/STAIRS.npz"
+  },
+  {
+    "id": "ELEVATOR",
+    "ko": "엘리베이터",
+    "gloss": [
+      "엘리베이터"
+    ],
+    "category": "instruction",
+    "aliases": [
+      "승강기"
+    ],
+    "motion_path": "data/processed/motions/ELEVATOR.npz"
+  },
+  {
+    "id": "DO_NOT_USE",
+    "ko": "사용하지 마세요",
+    "gloss": [
+      "사용",
+      "금지"
+    ],
+    "category": "instruction",
+    "aliases": [
+      "이용 금지",
+      "쓰지 마세요"
+    ],
+    "motion_path": "data/processed/motions/DO_NOT_USE.npz"
+  },
+  {
+    "id": "LEFT",
+    "ko": "왼쪽",
+    "gloss": [
+      "왼쪽"
+    ],
+    "category": "direction",
+    "aliases": [],
+    "motion_path": "data/processed/motions/LEFT.npz"
+  },
+  {
+    "id": "RIGHT",
+    "ko": "오른쪽",
+    "gloss": [
+      "오른쪽"
+    ],
+    "category": "direction",
+    "aliases": [],
+    "motion_path": "data/processed/motions/RIGHT.npz"
+  },
+  {
+    "id": "WAIT",
+    "ko": "기다리세요",
+    "gloss": [
+      "기다리다"
+    ],
+    "category": "instruction",
+    "aliases": [
+      "대기"
+    ],
+    "motion_path": "data/processed/motions/WAIT.npz"
+  },
+  {
+    "id": "ACCIDENT",
+    "ko": "사고",
+    "gloss": [
+      "사고"
+    ],
+    "category": "accident",
+    "aliases": [
+      "교통사고"
+    ],
+    "motion_path": "data/processed/motions/ACCIDENT.npz"
+  },
+  {
+    "id": "FALL",
+    "ko": "넘어졌어요",
+    "gloss": [
+      "넘어지다"
+    ],
+    "category": "accident",
+    "aliases": [
+      "추락",
+      "낙상"
+    ],
+    "motion_path": "data/processed/motions/FALL.npz"
+  },
+  {
+    "id": "BURN",
+    "ko": "화상을 입었어요",
+    "gloss": [
+      "화상"
+    ],
+    "category": "medical",
+    "aliases": [
+      "데었어요"
+    ],
+    "motion_path": "data/processed/motions/BURN.npz"
+  },
+  {
+    "id": "PREGNANCY",
+    "ko": "임신 중이에요",
+    "gloss": [
+      "임신"
+    ],
+    "category": "medical",
+    "aliases": [
+      "임산부"
+    ],
+    "motion_path": "data/processed/motions/PREGNANCY.npz"
+  },
+  {
+    "id": "CALL_119",
+    "ko": "119에 신고해 주세요",
+    "gloss": [
+      "119",
+      "전화"
+    ],
+    "category": "general",
+    "aliases": [
+      "119",
+      "신고"
+    ],
+    "motion_path": "data/processed/motions/CALL_119.npz"
+  },
+  {
+    "id": "SMOKE",
+    "ko": "연기가 나요",
+    "gloss": [
+      "연기"
+    ],
+    "category": "disaster",
+    "aliases": [
+      "연기"
+    ],
+    "motion_path": "data/processed/motions/SMOKE.npz"
+  },
+  {
+    "id": "EXPLOSION",
+    "ko": "폭발",
+    "gloss": [
+      "폭발"
+    ],
+    "category": "disaster",
+    "aliases": [
+      "폭발했어요"
+    ],
+    "motion_path": "data/processed/motions/EXPLOSION.npz"
+  },
+  {
+    "id": "COLLAPSE",
+    "ko": "건물이 무너졌어요",
+    "gloss": [
+      "건물",
+      "무너지다"
+    ],
+    "category": "disaster",
+    "aliases": [
+      "붕괴"
+    ],
+    "motion_path": "data/processed/motions/COLLAPSE.npz"
+  },
+  {
+    "id": "ELECTRIC_SHOCK",
+    "ko": "감전됐어요",
+    "gloss": [
+      "감전"
+    ],
+    "category": "accident",
+    "aliases": [
+      "전기 사고"
+    ],
+    "motion_path": "data/processed/motions/ELECTRIC_SHOCK.npz"
+  },
+  {
+    "id": "FLOOD",
+    "ko": "물이 차올라요",
+    "gloss": [
+      "홍수"
+    ],
+    "category": "disaster",
+    "aliases": [
+      "침수",
+      "홍수"
+    ],
+    "motion_path": "data/processed/motions/FLOOD.npz"
+  },
+  {
+    "id": "EARTHQUAKE",
+    "ko": "지진이 났어요",
+    "gloss": [
+      "지진"
+    ],
+    "category": "disaster",
+    "aliases": [
+      "지진"
+    ],
+    "motion_path": "data/processed/motions/EARTHQUAKE.npz"
+  }
+]

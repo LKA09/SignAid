@@ -1,0 +1,13 @@
+model:
+  type: transformer
+  joints: 47
+  channels: 3
+  width: 192
+  layers: 3
+data:
+  index: data/index/emergency_samples.jsonl
+training:
+  epochs: 30
+  batch_size: 16
+  learning_rate: 0.0003
+
